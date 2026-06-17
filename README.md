@@ -1,4 +1,4 @@
-# NEXUS — eigen AI-chatapp op de Claude-API
+# Abel123 AI— eigen AI-chatapp op de Claude-API
 
 Een chat-terminal in eigen stijl die jouw berichten doorstuurt naar Claude via de Anthropic API.
 
