@@ -315,45 +315,9 @@ screenshots/chat.png screenshots/image.png screenshots/face.png
 
 ---
 
-Gemaakt met ❤️ door Abel | © 2026 Alle rechten voorbehouden
+Gemaakt met kennis door Abelsoftware123| © 2026 Alle rechten voorbehouden
 
 ```
-
----
-
-## 📝 Hoe naar Word te kopiëren
-
-### Methode 1: Direct kopiëren
-1. **Kopieer** alle bovenstaande tekst (inclusief de markdown-codeblokken)
-2. Open **Microsoft Word**
-3. **Plak** de tekst (Ctrl+V)
-4. Word behoudt de opmaak grotendeels
-
-### Methode 2: Als .docx bestand
-1. Kopieer de tekst naar een teksteditor (Notepad)
-2. Sla op als `README.md`
-3. Open met Word → Word herkent markdown en formatteert automatisch
-
-### Methode 3: Online converter
-1. Ga naar [Markdown to Word converter](https://www.markdowntoword.com)
-2. Plak de markdown
-3. Download als `.docx`
-
----
-
-## 🎨 Extra: Word-template met logo
-
-Wil je een professioneel Word-document? Voeg deze kop toe bovenaan:
-
-```html
-<!-- Plak bovenaan in Word -->
-<h1 align="center">
-  <img src="logo.png" width="100"><br>
-  Abel123 AI — Volledige Suite
-</h1>
-```
-
----
 
 Auteursrechten: Abelsoftware123 
 copyright: Abelsoftware123 
